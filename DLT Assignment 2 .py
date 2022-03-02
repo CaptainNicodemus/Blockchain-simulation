@@ -1,3 +1,11 @@
+#Project: Blockchain Simulation
+#Created on: 2/1/2022
+#Author: Nicodemus Robles 
+#Last update: 3/2/2022
+#Version: 2.1
+#Purpose: A basic blockchain simulation
+#Output: 2 .csv files with the simulated transactions and the blockchain
+
 from array import *
 import random
 import csv
